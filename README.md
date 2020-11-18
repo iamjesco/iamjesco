@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tools I use
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)  
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)
+
+![](https://img.shields.io/static/v1?label=ooga&message=booga&color=990000?style=for-the-badge&logo=visual-studio-code)
+
+
