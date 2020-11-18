@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871b546a-5588-45ad-a03e-27461eeb584b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/banner-png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/banner-svg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/curcoder-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605664550435</updated>
       <workItem from="1605664551506" duration="1589000" />
-      <workItem from="1605669566269" duration="1262000" />
+      <workItem from="1605669566269" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1605669760335</created>
