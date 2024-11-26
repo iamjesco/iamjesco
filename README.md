@@ -11,13 +11,13 @@ Also very passionate about front end web development (HTML, SASS and some JavaSc
 ## Some quick facts 
 
 - 🌱 I’m currently learning ...
-    > React and FastApi
+    > Htmx
 - 🔭 I’m currently working on ...
-    > A social network app 
+    > Personal Web app 
 - 👯 I’m looking to collaborate on ...
     > Anything that needs a front end developed or tested
 - 🤔 I’m looking for help with ...
-    > React
+    > Continuous deployment
 - 💬 Ask me about ...
     > Anything
 
