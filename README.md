@@ -3,7 +3,7 @@
 
 # Hi there and welcome...!
 
-In my daily job I'm a Fullstack QA Engineer. Skilled in manual and automation testing. From application UI's to API's and databases. I daily use tools like Postman, ReadyApi and Selenium (with Python), Jira, Gitbash and testrail (test management).
+In my daily job I'm a Senior QA Engineer. Skilled in manual and automation testing. From application UI's to API's and databases. I daily use tools like Postman, ReadyApi and Selenium (with Python), Jira, Gitbash and testrail (test management).
 
 Also very passionate about front end web development (HTML, SASS and some JavaScript) followed by Back-end development using Python and Flask. Experience using T-SQL, MySQL and some MongoDb. 
 
